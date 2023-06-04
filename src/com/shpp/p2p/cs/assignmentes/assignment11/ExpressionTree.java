@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.bvorobev.assignment11;
+package com.shpp.p2p.cs.stud.assignment11;
 
 /**
  * The class describes how exactly the tree will be built.*/

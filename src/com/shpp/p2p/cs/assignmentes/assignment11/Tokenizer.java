@@ -1,4 +1,4 @@
-package com.shpp.p2p.cs.bvorobev.assignment11;
+package com.shpp.p2p.cs.stud.assignment11;
 
 import java.util.ArrayList;
 import java.util.HashMap;
